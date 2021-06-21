@@ -1,0 +1,1 @@
+{"Firstname":"ashikur rahman","Lastname":"saki","sex":"on","birthday":"2021-06-02","religion":"Islam","presentaddress":"comilll","Permanentaddress":"dahak","phone":"01931020563","email":"ashiiqr@gmail.com","Link":"https:\/\/saki.com","username":"saki","pwd":"dwerwf"}
